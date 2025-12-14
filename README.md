@@ -11,7 +11,7 @@
 I am dedicated to staying up-to-date with the latest frontend technologies and design trends and am always looking for new and innovative ways to improve the user experience. I am a self-starter with excellent communication and problem-solving skills and thrive in fast-paced, dynamic environments.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitVirat77&label=Profile%20views&color=32CD32&style=flat" alt="AnkitVirat77" /> </p>
+<p align="left"> <img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2023/07/bgdu.jpeg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 300px; height: 171px; margin: 31px 0px; width: 306px;" alt="Career Transition From Software Developer to Data Scientist" jsname="kn3ccd" alt="AnkitVirat77" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
